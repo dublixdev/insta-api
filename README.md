@@ -7,7 +7,6 @@ Instagram-dan ma'lumotlarni olish uchun PHP da yozilgan kuchli scraper sinfi.
 
 ## Muallif haqida
 - **Muallif**: Azizbek Qozoqov (@azizbekqozoqov)
-- **Email**: azizbek@example.com
 - **GitHub**: [github.com/azizbekqozoqov](https://github.com/azizbekqozoqov)
 - **Yaratilgan sana**: 18 Mart, 2025
 
@@ -22,7 +21,7 @@ Instagram-dan ma'lumotlarni olish uchun PHP da yozilgan kuchli scraper sinfi.
 
 1. Repozitoriyani klonlash:
 ```bash
-git clone https://github.com/azizbekqozoqov/instagram-scraper-php.git
+git clone https://github.com/dublixdev/insta-api/instagram-scraper-php.git
 ```
 
 2. Kerakli bog'liqliklarni o'rnatish:
